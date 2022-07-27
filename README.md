@@ -2,7 +2,7 @@
 
 ## Built With
 
-* [Qiskit](https://qiskit.org) - 
+* [Qiskit](https://qiskit.org) 
 * [IBM Quantum](https://quantum-computing.ibm.com) 
 * [Visual Studio Code](https://code.visualstudio.com)
 
@@ -16,7 +16,7 @@
 
 ## Acknowledgments
 
-* ![BWSI Quantum Software Program!](https://beaverworks.ll.mit.edu/CMS/bw/sites/all/themes/professional_theme/logo.png)
+* ![BWSI Quantum Software Program!](https://beaverworks.ll.mit.edu/CMS/bw/sites/all/themes/professional_theme/logo.png "BWSI Quantum Software")
 	* Instructors and Teaching Assistants
 		* **Nikita Borisov**
 		* **Jon Christie**
