@@ -26,4 +26,4 @@
 		* **Diptanshu Sikdar**
 		* **Dylan VanAllen**
 * Inspiration
-	* Rodney Osodo's [*Variational quantum classifier on heart attack*] (https://github.com/0x6f736f646f/variational-quantum-classifier-on-heartattack)
+	* Rodney Osodo's [Variational quantum classifier on heart attack](https://github.com/0x6f736f646f/variational-quantum-classifier-on-heartattack)
