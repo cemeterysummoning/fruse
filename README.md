@@ -22,10 +22,8 @@
 		* **Jon Christie**
 		* **Joe Clapis**
 		* **Melvin Lin**
+		* **Richard Preston**
 		* **Diptanshu Sikdar**
 		* **Dylan VanAllen**
-		* **Richard Preston**
 * Inspiration
 	* Rodney Osodo's [*Variational quantum classifier on heart attack*] (https://github.com/0x6f736f646f/variational-quantum-classifier-on-heartattack)
-
-
