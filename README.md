@@ -9,10 +9,10 @@
 
 ## Authors
 
-* **Daniel Cho** 
-* **Ace Chun** 
-* **Shravika Pendyala**
-* **Grant Sackmann** 
+* **Daniel Cho** - *Data Preprocessing*
+* **Ace Chun** - *Optimizer*
+* **Shravika Pendyala** - *Feature Map*
+* **Grant Sackmann** - *Variational Circuit*
 
 ## Acknowledgments
 
