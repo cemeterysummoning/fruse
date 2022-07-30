@@ -8,7 +8,7 @@ import pandas as pd
 from pandas_profiling import profile_report
 
 # loading data
-data = pd.read_csv("/Users/grantsackmann/MIT_BWSI/fruse/Data/orginialHeartData.csv")
+data = pd.read_csv("./Data/orginialHeartData.csv")
 
 # creating data frame
 df = pd.DataFrame(data)
