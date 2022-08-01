@@ -1,5 +1,9 @@
 # Variational Quantum Classifier
 
+# Introduction
+The VQC is 
+
+
 ## Built With
 
 * [Qiskit](https://qiskit.org) 
@@ -10,7 +14,7 @@
 ## Authors
 
 * **Daniel Cho** - *Data Preprocessing*
-* **Ace Chun** - *Optimizer*
+* **Yuna (Ace) Chun** - *Optimizer*
 * **Shravika Pendyala** - *Feature Map*
 * **Grant Sackmann** - *Variational Circuit*
 
