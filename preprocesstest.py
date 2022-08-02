@@ -28,6 +28,7 @@ def filter(path):
     data = shuffle(data, random_state = 42)
 
     #only include the necessary features in the final dataframe, and seperate features from target
+    # "ExerciseAngina","ASY","Flat","Up","HeartDisease"
     features = data[['ExerciseAngina', 'Oldpeak', 'MaxHR', 'Sex']]
     target = data[['HeartDisease']]
 
