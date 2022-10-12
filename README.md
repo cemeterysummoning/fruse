@@ -1,6 +1,7 @@
 # Variational Quantum Classifier
 
 [Final Presentation Video](https://www.youtube.com/watch?v=D_PIwdJG4FI)
+
 [Writeup + Explanation of Algorithm](https://chun.cat/files/VQC.pdf)
 
 
