@@ -1,7 +1,7 @@
 # Variational Quantum Classifier
 
-# Introduction
-The VQC is 
+[Final Presentation Video](https://www.youtube.com/watch?v=D_PIwdJG4FI)
+[Writeup + Explanation of Algorithm](https://chun.cat/files/VQC.pdf)
 
 
 ## Built With
